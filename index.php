@@ -37,7 +37,7 @@
 <body>
 <div class="pc clearfix">
 <h1 style="text-align: center;">Ehemalige Bundeskanzlerin teilt ihre Erfahrungen</h1>
-<p><a href="#"><img class="responsive" style="display: block; margin-left: auto; margin-right: auto;" src="/images/main.png" alt="" /></a></p>
+<p><a href="#"><img class="responsive" style="display: block; margin-left: auto; margin-right: auto;" src="/images/main.PNG" alt="" /></a></p>
 <center><a href="http://globalincomestrategy.com" class="myButton">Mehr Sehen</a></center>
 <p>&nbsp;</p>
 </div>
