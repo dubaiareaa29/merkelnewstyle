@@ -18,8 +18,8 @@
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Arial;
-	font-size:18px;
-	padding:14px 17px;
+	font-size:22px;
+	padding:17px 20px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #263666;
 }
@@ -37,9 +37,8 @@
 <body>
 <div class="pc clearfix">
 <h1 style="text-align: center;">Ehemalige Bundeskanzlerin teilt ihre Erfahrungen</h1>
-<p><a href="#"><img class="responsive" style="display: block; margin-left: auto; margin-right: auto;" src="/images/main.PNG" alt="" /></a></p>
-<center><a href="http://globalincomestrategy.com" class="myButton">Mehr Sehen</a></center>
-<p>&nbsp;</p>
+<p><a href="https://globalincomestrategy.com"><img class="responsive" style="display: block; margin-left: auto; margin-right: auto;" src="/images/main.PNG" alt="" /></a></p>
+<center><a href="https://globalincomestrategy.com" class="myButton">Mehr Sehen</a></center>
 </div>
 
 </body>
