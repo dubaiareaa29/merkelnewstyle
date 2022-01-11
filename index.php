@@ -41,12 +41,6 @@
 <center><a href="http://globalincomestrategy.com" class="myButton">Mehr Sehen</a></center>
 <p>&nbsp;</p>
 </div>
-<footer>
-    <center><a href="#">Contact us - </a>
-    <a href="#">Terms Of Service - </a>
-    <a href="#">Privacy Policy - </a>
-    <a href="#">Disclaimer</a></center>
-</footer>
 
 </body>
 </html>
