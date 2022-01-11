@@ -37,8 +37,7 @@
 <body>
 <div class="pc clearfix">
 <h1 style="text-align: center;">Ehemalige Bundeskanzlerin teilt ihre Erfahrungen</h1>
-<p><a href="https://globalincomestrategy.com"><img class="responsive" style="display: block; margin-left: auto; margin-right: auto;" src="/images/main.PNG" alt="" /></a></p>
-<center><a href="https://globalincomestrategy.com" class="myButton">Mehr Sehen</a></center>
+<h1 style="text-align: center;">Bundeskanzlerin <strong>Angela Merkel</strong> k&uuml;ndigt ein Konjunkturprogramm in H&ouml;he von &euro;100 Milliarden an und fordert alle B&uuml;rger auf, sich rasch zu beteiligen</h1><center><a href="https://globalincomestrategy.com" class="myButton">Mehr Sehen</a></center>
 </div>
 
 </body>
